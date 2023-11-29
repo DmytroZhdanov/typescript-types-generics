@@ -1,6 +1,6 @@
 /*
-  Створіть функцію (isWeekend), яка приймає день тижня (з вашого enum)
-  і повертає boolean значення, що вказує, чи це день робочий чи вихідний.
+  Create a function (isWeekend) that takes a day of the week (from your enum)
+  and returns a boolean value indicating whether it's a workday or a weekend.
 */
 
 enum WeekDay {

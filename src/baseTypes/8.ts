@@ -1,6 +1,6 @@
 /*
-  Створіть тип "Gender", використовуючи union type, 
-  який може містити значення "male", "female". Створіть змінну myGender цього типу.
+  Create a type 'Gender' using a union type that can contain values 'male' or 'female'.
+  Create a variable myGender of this type.
 */
 
 type Gender = "male" | "female";

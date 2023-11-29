@@ -1,6 +1,7 @@
 /*
-  Створіть новий тип даних, який підходить для цих двох об'єктів.
+  Create a new data type that suits these two objects.
 */
+
 type Details = {
   createAt: Date;
   updateAt: Date;

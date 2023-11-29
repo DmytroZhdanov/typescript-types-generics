@@ -1,7 +1,7 @@
 /*
-  У вас є тип AllType. Існує функція compare, яка приймає два об'єкти. Ці об'єкти містять поля AllType. 
-  Ваше завдання – використовувати Pick та generics для вказівки, що поля цих об'єктів належать AllType.
-  Функція compare повинна повертати AllType.
+  You have a type named AllType. There's a function called compare that takes two objects. These objects contain fields of type AllType.
+  Your task is to use Pick and generics to indicate that the fields of these objects belong to AllType.
+  The 'compare' function should return AllType.
 */
 
 type AllType = {

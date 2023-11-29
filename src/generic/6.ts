@@ -1,10 +1,10 @@
 /*
-  Ви маєте форму реєстрації користувачів. 
-  Іноді потрібно попередньо заповнити форму даними користувача для оновлення його профілю. 
-  Однак вам не завжди потрібно заповнити всі поля. Наприклад, користувач може хотіти оновити лише свій email та пароль, 
-  залишивши ім'я та прізвище без змін.
+  You have a user registration form.
+  Sometimes it's necessary to prefill the form with user data for updating their profile.
+  However, it's not always necessary to fill in all the fields. For instance, a user might only want to update their email and password,
+  leaving their name and surname unchanged.
 
-  Виправте тип у аргументі функції так, щоб не було помилок типу.
+  Fix the type in the function argument to avoid type errors.
 */
 
 type User = {
@@ -15,7 +15,7 @@ type User = {
 };
 
 function createOrUpdateUser(initialValues: Partial<User>) {
-  // Оновлення користувача
+  // User Update
 }
 
 createOrUpdateUser({ email: "user@mail.com", password: "password123" });

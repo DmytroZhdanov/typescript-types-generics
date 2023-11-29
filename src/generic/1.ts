@@ -1,6 +1,6 @@
 /*
-  Є функція getPromise(), яка повертає проміс, що дозволяється в масив, що містить рядки та числа. 
-  Доповніть цю функцію, використовуючи generics, щоб вона повертала правильний тип.
+  There's a function getPromise() that returns a promise allowing an array containing both strings and numbers.
+  Enhance this function using generics to return the correct type.
 */
 
 function getPromise(): Promise<[string, number]> {

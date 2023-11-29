@@ -1,6 +1,6 @@
 /*
-  Як переписати його в TypeScript, використовуючи концепцію кортежів, 
-  щоб гарантувати, що перший елемент завжди буде рядком, а другий числом?
+  How to rewrite it in TypeScript using the concept of tuples
+  to ensure that the first element is always a string, and the second one is a number?
 */
 
 let person: [string, number];

@@ -1,5 +1,5 @@
 /*
-  Як ви вкажете типи для аргументів і значень цих функцій, що повертаються?
+  How would you specify types for the arguments and return values of these functions?
 */
 
 function showMessage(message: string): void {

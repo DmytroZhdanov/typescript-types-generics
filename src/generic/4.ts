@@ -1,5 +1,5 @@
 /*
-  Використовуйте generics та інтерфейси, щоб виправити помилку в наступних класах:
+  Use generics and interfaces to fix the error in the following classes:
 */
 
 interface PageInterface {

@@ -1,4 +1,4 @@
-// Перетворіть цей код на TypeScript, вказавши відповідні типи для всіх змінних.
+// Convert this code to TypeScript, specifying the appropriate types for all variables.
 
 let age: number = 50;
 let name: string = "Max";
